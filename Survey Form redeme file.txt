@@ -1,0 +1,41 @@
+# Survey Form HTML Template
+
+This is a simple HTML survey form template that you can use as a starting point for creating your own survey or data collection forms. It includes basic form fields and form validation using JavaScript.
+
+## Table of Contents
+
+- [Demo](#demo)
+- [Features](#features)
+- [Usage](#usage)
+- [License](#license)
+
+## Demo
+
+You can see a live demo of this survey form template [here](#link-to-your-demo-if-available).
+
+## Features
+
+- Simple and clean design.
+- Form validation to ensure required fields are filled.
+- Displays a popup with the submitted form data.
+- Reset button to clear the form.
+
+## Usage
+
+1. Clone or download this repository to your local machine.
+
+2. Open the `index.html` file in a web browser to see the form template in action.
+
+3. You can use this template as a starting point for your own survey or data collection forms. To customize it, you can make changes to the HTML and CSS as needed.
+
+4. If you want to add more countries to the dropdown, simply extend the `<select>` element under the "Country" field.
+
+5. You can also modify the JavaScript function `validateForm()` to add or change validation rules as per your requirements.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to customize and extend this README as per your project's requirements. Make sure to replace `#link-to-your-demo-if-available` with the actual link to your live demo if you have one. Additionally, if you've used any third-party libraries or resources, consider adding a "Credits" section to attribute them.
